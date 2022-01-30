@@ -27,7 +27,7 @@ namespace BinaryImageConverter
 
             using (Bitmap bitmap = new Bitmap(new MemoryStream(imageBytes)))
                 bitmap.Save("image.png", ImageFormat.Png);
-            
+
             Console.WriteLine("Success!");
         }
         
