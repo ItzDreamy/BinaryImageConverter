@@ -1,0 +1,10 @@
+D:\RiderProjects\BinaryImageConverter\bin\Debug\BinaryImageConverter.exe
+D:\RiderProjects\BinaryImageConverter\bin\Debug\BinaryImageConverter.pdb
+D:\RiderProjects\BinaryImageConverter\bin\Debug\System.Drawing.Common.dll
+D:\RiderProjects\BinaryImageConverter\bin\Debug\System.Drawing.Common.xml
+D:\RiderProjects\BinaryImageConverter\obj\Debug\BinaryImageConverter.csproj.AssemblyReference.cache
+D:\RiderProjects\BinaryImageConverter\obj\Debug\BinaryImageConverter.csproj.SuggestedBindingRedirects.cache
+D:\RiderProjects\BinaryImageConverter\obj\Debug\BinaryImageConverter.csproj.CoreCompileInputs.cache
+D:\RiderProjects\BinaryImageConverter\obj\Debug\BinaryImageConverter.csproj.CopyComplete
+D:\RiderProjects\BinaryImageConverter\obj\Debug\BinaryImageConverter.exe
+D:\RiderProjects\BinaryImageConverter\obj\Debug\BinaryImageConverter.pdb
